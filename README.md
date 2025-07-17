@@ -54,3 +54,16 @@ High‑value trips (>₹500): approx. [AA]% of rides, often during weekends
 Vehicle trends: [e.g. Bikes dominate city center rides; SUVs preferred in the suburbs]
 
 Area hotspots: Top pickup zones — [Area 1], [Area 2], [Area 3]
+<br>
+📫 Contact
+For feedback, questions, or collaboration:
+
+Email: tirth.p.patel143@example.com
+<br>
+⭐ Show Your Support
+If you find this analysis helpful, please star the repo to show your support!
+<br>
+📝 License
+This project is released under the MIT License.
+
+
